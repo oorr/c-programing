@@ -7,9 +7,6 @@ int main(void)
 	unsigned int i,j,cnt;
 	char m1[50] = "AAAAAAABBBCddEEEE#####",m2[50];
 	
-	//printf("“ü—Í•¶Žš—ñ(m1)-->");
-	//scanf("%s",m1);
-	
 	i = j = 0;
 	while( m1[i] != '\0' )
 	{
