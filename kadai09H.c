@@ -27,9 +27,9 @@ int main(void)
 		}
 	}
 	
-	printf("%s",m2);
+	printf("%sÂ¥n",m2);
 	
-	printf("\n\nˆ³k”ä:%.1f%\n", ((double) strlen(m2)/ strlen(m1) ) * 100 );
+	printf("\n\nË†Â³Âkâ€Ã¤:%.1f%\n", ((double) strlen(m2)/ strlen(m1) ) * 100 );
 
 	return 0;
 }
